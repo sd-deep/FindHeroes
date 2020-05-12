@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9c59fdf14821430dc03de5d88de56cdc",
+    "revision": "9bb79f97c44229a505059addebcdfe3e",
     "url": "/FindHeroes/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FindHeroes/static/css/2.74303661.chunk.css"
   },
   {
-    "revision": "c2d6f24c33973e52e3c7",
+    "revision": "b8cebf2d280332ac1649",
     "url": "/FindHeroes/static/css/main.74596f2c.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FindHeroes/static/js/2.054ab9b9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c2d6f24c33973e52e3c7",
-    "url": "/FindHeroes/static/js/main.66721dbe.chunk.js"
+    "revision": "b8cebf2d280332ac1649",
+    "url": "/FindHeroes/static/js/main.717beb7f.chunk.js"
   },
   {
     "revision": "41d9f543eaa0acf99345",
