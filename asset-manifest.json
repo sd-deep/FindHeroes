@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/FindHeroes/static/css/main.74596f2c.chunk.css",
-    "main.js": "/FindHeroes/static/js/main.53f28045.chunk.js",
-    "main.js.map": "/FindHeroes/static/js/main.53f28045.chunk.js.map",
+    "main.js": "/FindHeroes/static/js/main.ec8b4ff8.chunk.js",
+    "main.js.map": "/FindHeroes/static/js/main.ec8b4ff8.chunk.js.map",
     "runtime-main.js": "/FindHeroes/static/js/runtime-main.882284d6.js",
     "runtime-main.js.map": "/FindHeroes/static/js/runtime-main.882284d6.js.map",
     "static/css/2.74303661.chunk.css": "/FindHeroes/static/css/2.74303661.chunk.css",
     "static/js/2.054ab9b9.chunk.js": "/FindHeroes/static/js/2.054ab9b9.chunk.js",
     "static/js/2.054ab9b9.chunk.js.map": "/FindHeroes/static/js/2.054ab9b9.chunk.js.map",
     "index.html": "/FindHeroes/index.html",
-    "precache-manifest.2afa82ced2ba94e0f7614aab61df45e9.js": "/FindHeroes/precache-manifest.2afa82ced2ba94e0f7614aab61df45e9.js",
+    "precache-manifest.39e3a4bf722ef12bbbed4ed0fef42782.js": "/FindHeroes/precache-manifest.39e3a4bf722ef12bbbed4ed0fef42782.js",
     "service-worker.js": "/FindHeroes/service-worker.js",
     "static/css/2.74303661.chunk.css.map": "/FindHeroes/static/css/2.74303661.chunk.css.map",
     "static/css/main.74596f2c.chunk.css.map": "/FindHeroes/static/css/main.74596f2c.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.74303661.chunk.css",
     "static/js/2.054ab9b9.chunk.js",
     "static/css/main.74596f2c.chunk.css",
-    "static/js/main.53f28045.chunk.js"
+    "static/js/main.ec8b4ff8.chunk.js"
   ]
 }
