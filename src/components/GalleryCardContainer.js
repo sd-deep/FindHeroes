@@ -22,8 +22,8 @@ function GalleryCardContainer() {
 
     const handleNext = () => {
         if (id < 732) {
-            setId(id + 1)
-            setIdFromButtonClick(id + 1)
+            setId(parseInt(id) + 1)
+            setIdFromButtonClick(parseInt(id) + 1)
         }
         else {
             toast("No more heroes/villains !", 
@@ -46,7 +46,7 @@ function GalleryCardContainer() {
     }
 
     useEffect(() => {
-        axios.get(`api/2910228855724140/${idFromButtonClick}`)
+        axios.get(`https://cors-anywhere.herokuapp.com/https://www.superheroapi.com/api/2910228855724140/${idFromButtonClick}`)
             .then(response => {
                 console.log(response.data)
                 setInfo(response.data)

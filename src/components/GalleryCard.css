@@ -16,7 +16,6 @@ p, h3 {
     display: flex;
     justify-content: space-between;
     width: 80%;  
-    
     background-color: white;
     border-radius: 10px;
     padding: 10px;
@@ -64,4 +63,20 @@ p, h3 {
     border : 1px solid rgba(0, 0, 250, 0.5);
     color : white;
     cursor: pointer;
+}
+
+@media (max-width: 700px){
+    .card{
+        width: 90%;
+    }
+
+    .card-image{
+       width: 60%;
+        
+    }
+    .card-content{
+        width: 40%;
+        font-size: .8em;
+
+    }
 }
